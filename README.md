@@ -5,8 +5,8 @@
 [Claude](https://www.anthropic.com/claude) is a powerful AI assistant that can be extended through Skills and the Model Context Protocol (MCP). This list provides a comprehensive collection of resources to enhance Claude's capabilities.
 
 ## Skillls
-- [Create a TF-IDF Search Engine](./tfidf-search)
-- [Create a Claude Skill for any requirement you have](./kartheeks-skill-creator)
+- [Create a TF-IDF Search Engine (tfidf-search)](./tfidf-search)
+- [Create a Claude Skill for any requirement you have (kartheeks-skill-creator)](./kartheeks-skill-creator)
 
 ## Contributing
 
